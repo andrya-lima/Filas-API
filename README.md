@@ -1,4 +1,4 @@
 # azureapi
-azure api for queue
+API para Filas Queue
 # url
-http://api-azure-phdias.azurewebsites.net/api
+http://api-andrya.azurewebsites.net/api
